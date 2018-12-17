@@ -4,9 +4,9 @@
 
 # Site
 title: 不忘初心
-subtitle:
-description:
-keywords:
+subtitle: 乾學長的个人博客
+description: 程序员除了素质，一无所有
+keywords: 不忘初心，博客，Jobs，黄乾，huangqian，qianhuang0327
 author: 乾學長
 language: 
   - zh-Hans
@@ -79,8 +79,10 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
-
+  type: git
+  repo: https://github.com/jobs0327/jobs0327.github.io.git
+  branch: master
+  message:
 search:
   path: search.xml
   field: post
