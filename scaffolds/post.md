@@ -3,6 +3,6 @@ title: {{ title }}
 date: {{ date }}
 tags:
 categories:
-copyright: 
+copyright: 乾學長
 top: 
 ---
